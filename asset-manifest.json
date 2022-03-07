@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/To-do-List-using-Firebase-Authentication/static/css/main.d339fa20.chunk.css",
+    "main.js": "/To-do-List-using-Firebase-Authentication/static/js/main.72a88ee3.chunk.js",
+    "main.js.map": "/To-do-List-using-Firebase-Authentication/static/js/main.72a88ee3.chunk.js.map",
+    "runtime-main.js": "/To-do-List-using-Firebase-Authentication/static/js/runtime-main.a1c345b6.js",
+    "runtime-main.js.map": "/To-do-List-using-Firebase-Authentication/static/js/runtime-main.a1c345b6.js.map",
+    "static/js/2.421468cb.chunk.js": "/To-do-List-using-Firebase-Authentication/static/js/2.421468cb.chunk.js",
+    "static/js/2.421468cb.chunk.js.map": "/To-do-List-using-Firebase-Authentication/static/js/2.421468cb.chunk.js.map",
+    "index.html": "/To-do-List-using-Firebase-Authentication/index.html",
+    "static/css/main.d339fa20.chunk.css.map": "/To-do-List-using-Firebase-Authentication/static/css/main.d339fa20.chunk.css.map",
+    "static/js/2.421468cb.chunk.js.LICENSE.txt": "/To-do-List-using-Firebase-Authentication/static/js/2.421468cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1c345b6.js",
+    "static/js/2.421468cb.chunk.js",
+    "static/css/main.d339fa20.chunk.css",
+    "static/js/main.72a88ee3.chunk.js"
+  ]
+}
